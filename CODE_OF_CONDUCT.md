@@ -1,4 +1,4 @@
-# Citizen Code of Conduct
+# Black Python Devs Code of Conduct
 
 ## 1. Purpose
 
@@ -59,7 +59,7 @@ Additionally, community organizers are available to help community members to ot
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify kjaymiller@gmail.com with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify leadership@blackpythondevs.com with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 ## 9. Scope
 
@@ -69,9 +69,10 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-kjaymiller@gmail.com
+leadership@blackpythondevs.com
 
 ## 11. License and attribution
+This is a modified version of the Citizen Code of Conduct
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
